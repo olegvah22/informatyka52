@@ -1,1 +1,2 @@
 # informatyka52
+olegvahila52doradota350mmrbrawlstar35kkubkow90na2odgrudilublubrunetek160
