@@ -11,10 +11,13 @@ int main() {
 
  while(i <= N)
 {
+
     suma += i;
-    i++;   
+    i++;
+ 
+    
 }
-cout << "suma liczb naturalnych:" << suma << endl;
+cout << "suma liczb naturalnych: " << suma << endl;
   
 return 0;}
 
