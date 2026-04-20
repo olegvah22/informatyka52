@@ -13,7 +13,6 @@ int main() {
     cout << "Podaj liczbe elemntow:";
     cin >> N;
     int wynik = Silnia(N);
-    for(int )
     cout << "ciag fibonacciego: " << Silnia(N) <<endl;
     return 0;
 }
